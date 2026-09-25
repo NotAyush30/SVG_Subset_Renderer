@@ -1,0 +1,35 @@
+<svg width="700" height="500">
+
+  <rect x="0" y="0" width="700" height="500" fill="white"/>
+
+  <rect x="50" y="50" width="180" height="100"
+        fill="#FF6B6B" stroke="black" stroke-width="4"/>
+
+  <circle cx="350" cy="100" r="60"
+          fill="rgb(80, 160, 255)" stroke="black" stroke-width="4"/>
+
+  <ellipse cx="550" cy="100" rx="90" ry="50"
+           fill="#7ED957" stroke="black" stroke-width="4"/>
+
+  <line x1="70" y1="220" x2="300" y2="320"
+        stroke="#8A2BE2" stroke-width="8"/>
+
+  <line x1="300" y1="320" x2="500" y2="220"
+        stroke="orange" stroke-width="6"/>
+
+  <line x1="500" y1="220" x2="630" y2="320"
+        stroke="green" stroke-width="5"/>
+
+  <rect x="80" y="350" width="160" height="90"
+        fill="#FFD93D" stroke="#333333" stroke-width="5"/>
+
+  <circle cx="350" cy="395" r="45"
+          fill="#C77DFF" stroke="black" stroke-width="3"/>
+
+  <text x="470" y="410"
+        font-size="36"
+        fill="black">
+    Hello SVG
+  </text>
+
+</svg>
